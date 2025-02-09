@@ -46,3 +46,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 - Built with NVIDIA API
 - Powered by LangChain
+
+## 😎 Contributing
+
+If you have a suggestion that would make this project better, please fork the repo and create a pull request. Any contributions you make are **greatly appreciated**.
+Don't forget to give the project a star! Thanks again!
