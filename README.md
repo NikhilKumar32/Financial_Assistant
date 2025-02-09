@@ -10,10 +10,10 @@ This project is a financial assistant application built using Streamlit and NVID
 - 💡 Retirement Planning
 
 ## Usage Example
-![Screenshot 2025-02-09 113013](https://github.com/user-attachments/assets/462f399f-7d29-41f3-af33-463d38bcf9da)
-![Screenshot 2025-02-09 112946](https://github.com/user-attachments/assets/d8fe7981-0270-4b38-9d03-b91c7358f6d1)
-![Screenshot 2025-02-09 112802](https://github.com/user-attachments/assets/fe61fd43-b3da-4ef8-a8dd-215da892fc7a)
 ![Screenshot 2025-02-09 111906](https://github.com/user-attachments/assets/45d89124-6e45-48fd-b87d-72505f28fa2e)
+![Screenshot 2025-02-09 112802](https://github.com/user-attachments/assets/fe61fd43-b3da-4ef8-a8dd-215da892fc7a)
+![Screenshot 2025-02-09 112946](https://github.com/user-attachments/assets/d8fe7981-0270-4b38-9d03-b91c7358f6d1)
+![Screenshot 2025-02-09 113013](https://github.com/user-attachments/assets/462f399f-7d29-41f3-af33-463d38bcf9da)
 
 ## Setup Instructions
 1. Clone the repository:
