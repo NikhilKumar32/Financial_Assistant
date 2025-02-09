@@ -1,4 +1,4 @@
-# Financial Assistant 
+# AI Powered Financial Assistant 
 
 ## Overview
 This project is a financial assistant application built using Streamlit and NVIDIA's API. It provides users with investment analysis, budgeting advice, loan guidance, and retirement planning.
