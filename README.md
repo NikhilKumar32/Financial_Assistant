@@ -12,8 +12,8 @@ This project is a financial assistant application built using Streamlit and NVID
 ## Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone https://github.com/SURESHBEEKHAN/financial-assistant-deepseek-r1.git
-    cd financial-assistant-deepseek-r1
+    git clone https://github.com/NikhilKumar32/financial_assistant.git
+    cd financial_assistant
     ```
 
 2. Install the required dependencies:
