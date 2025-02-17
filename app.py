@@ -1,10 +1,8 @@
-# Import necessary libraries to use their functions
 import os
 import streamlit as st
 from openai import OpenAI
 
 # Get the API key from the environment settings
-
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -12,15 +10,14 @@ load_dotenv()
 
 # Now retrieve the API key
 api_key_nvidia = os.getenv("api_key_nvidia")
-
 api_key_nvidia = os.environ.get("api_key_nvidia")
 
-# If there is no API key, show an error message and stop the program
+# If there is no API key, show an error message & stop the program
 if not api_key_nvidia:
     st.error("NVIDIA API key not found. Please set the `api_key_nvidia` environment variable.")
     st.stop()
 
-# Add custom design for a finance theme
+# Add custom design for a theme
 st.markdown("""
 <style>
 /* Set background color for the main section */
